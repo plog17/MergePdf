@@ -19,4 +19,4 @@ for filename in os.listdir('pic/front/'):
 outputStream = file(pathToOut+"total_"+filename, "wb")
 output.write(outputStream)
 
-print("HELLO");
+print("Done.");
